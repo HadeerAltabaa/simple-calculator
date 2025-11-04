@@ -7,7 +7,7 @@
 body {
     padding: 0;
     margin: 0;
-    background: linear-gradient(to right, #c30031, #380116);
+    background: linear-gradient(to right, #00aaff, #ff75e3);
 }
 
 .calculator-grid {
@@ -54,5 +54,5 @@ body {
 
 .output .current-operand {
     color: white;
-    font-size: 2.5rem;
+    font-size: 1.5rem;
 }
